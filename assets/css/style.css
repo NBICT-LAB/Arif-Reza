@@ -156,7 +156,7 @@ h6 {
 
 .nav-menu>ul>li {
   position: relative;
-  white-space: pre;
+  white-space: normal;
 }
 
 .nav-menu a,
